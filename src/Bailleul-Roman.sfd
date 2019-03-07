@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1201742810
-ModificationTime: 1551921434
+ModificationTime: 1551991742
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -97,7 +97,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 26 10
+WinInfo: 104 26 10
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 291504 145752 97168 513802 1048576 97168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -4404,6 +4404,7 @@ SplineSet
  336 25 l 1,47,-1
  422 25 l 1,38,-1
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "'liga' Ligatures standard dans Latin lookup 0" f i
 EndChar
 

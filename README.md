@@ -1,3 +1,5 @@
+Project transfered to https://codeberg.org/yomli/bailleul-roman
+
 # Bailleul Roman
 
 ![](specimen/screenshot1.png)
